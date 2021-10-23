@@ -12,7 +12,7 @@
 
 - `python test.py --config yolov4-custom.cfg --weights yolov4-custom_1000.weights` 
 
-Sample Results of detection: 
+### Sample Results of detection: 
 ![](assets/1.jpg)
 ![](assets/9.jpg)
 ![](assets/12.jpg)
